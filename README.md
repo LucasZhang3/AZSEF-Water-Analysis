@@ -251,25 +251,23 @@ The application follows a clean client-server architecture. The React frontend c
 
 #### Light Mode
 
-![Application Screenshot - Light Mode](assets/screenshot_light.png)
+![Application Screenshot - Light Mode](<img width="1574" height="718" alt="image" src="https://github.com/user-attachments/assets/23380a96-7c36-41c4-800f-62740f80b1fb" />)
 
 #### Dark Mode
 
-![Application Screenshot - Dark Mode](assets/screenshot_dark.png)
+![Application Screenshot - Dark Mode](<img width="1563" height="715" alt="image" src="https://github.com/user-attachments/assets/b7f00ed7-ea3c-44e3-89ec-8cb7b237126d" />)
 
 #### Prediction Results Panel
 
-![Prediction Results](assets/screenshot_predictions.png)
+![Prediction Results](<img width="1544" height="711" alt="image" src="https://github.com/user-attachments/assets/b2364a6e-f27e-4b0e-b868-fabb91b2ce2c" />)
 
 #### Extrapolation Warning
 
-![Extrapolation Warning](assets/screenshot_extrapolation.png)
+![Extrapolation Warning](<img width="1539" height="710" alt="image" src="https://github.com/user-attachments/assets/9884a778-cbf8-4313-b321-918ef2f325cf" />)
 
 ### Demo Video
 
 <!-- Add your demo video or GIF below. Place video files in the demo/ folder. -->
-
-![Demo Walkthrough](demo/demo.gif)
 
 > A full demo recording is available in the [demo/](demo/) folder.
 
@@ -283,19 +281,19 @@ The following visualizations were generated from the GP model predictions and ar
 
 <!-- Add heatmap images below -->
 
-![Concentration Heatmap](assets/heatmap.png)
+![Concentration Heatmap](assets/zoomed_heatmap_Mo.png)
 
 ### Residual Analysis
 
 <!-- Add residual plot images below -->
 
-![Residual Plots](assets/residuals.png)
+![Residual Plots](assets/loocv_residual_Mo.png)
 
 ### LOOCV Plots
 
 <!-- Add LOOCV plot images below -->
 
-![LOOCV Results](assets/loocv.png)
+![LOOCV Results](assets/loocv_Mo.png)
 
 ---
 
