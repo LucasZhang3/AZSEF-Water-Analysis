@@ -1,14 +1,14 @@
+<div align="center">
+  <img src="AZSEF Logo.jpg" alt="AZSEFLogo" width="499" height="165">
+</div>
+
 # Water Quality Prediction in Arizona Using Gaussian Process Regression
 
 **Predicting dissolved metal concentrations across metropolitan Phoenix using Flame Atomic Absorption Spectroscopy and Gaussian Process regression.**
 
-An interactive web application built for the Arizona Science and Engineering Fair (AzSEF).
 
----
+**Category:** Earth and Environmental Sciences 
 
-**Category:** Earth and Environmental Sciences | **Built with:** React, TypeScript, Tailwind CSS, Google Maps API
-
----
 
 ## Overview
 
