@@ -251,19 +251,19 @@ The application follows a clean client-server architecture. The React frontend c
 
 #### Light Mode
 
-![Application Screenshot - Light Mode](<img width="1574" height="718" alt="image" src="https://github.com/user-attachments/assets/23380a96-7c36-41c4-800f-62740f80b1fb" />)
+![Application Screenshot - Light Mode](https://github.com/user-attachments/assets/23380a96-7c36-41c4-800f-62740f80b1fb)
 
 #### Dark Mode
 
-![Application Screenshot - Dark Mode](<img width="1563" height="715" alt="image" src="https://github.com/user-attachments/assets/b7f00ed7-ea3c-44e3-89ec-8cb7b237126d" />)
+![Application Screenshot - Dark Mode](https://github.com/user-attachments/assets/b7f00ed7-ea3c-44e3-89ec-8cb7b237126d)
 
 #### Prediction Results Panel
 
-![Prediction Results](<img width="1544" height="711" alt="image" src="https://github.com/user-attachments/assets/b2364a6e-f27e-4b0e-b868-fabb91b2ce2c" />)
+![Prediction Results](https://github.com/user-attachments/assets/b2364a6e-f27e-4b0e-b868-fabb91b2ce2c)
 
 #### Extrapolation Warning
 
-![Extrapolation Warning](<img width="1539" height="710" alt="image" src="https://github.com/user-attachments/assets/9884a778-cbf8-4313-b321-918ef2f325cf" />)
+![Extrapolation Warning](https://github.com/user-attachments/assets/9884a778-cbf8-4313-b321-918ef2f325cf)
 
 ### Demo Video
 
