@@ -2,7 +2,7 @@
   <img src="AZSEF Logo.jpg" alt="AZSEFLogo" width="499" height="165">
 </div>
 
-# Water Quality Prediction in Arizona Using Gaussian Process Regression
+<h1 align="center">Water Quality Prediction in Arizona Using Gaussian Process Regression</h1>
 
 **Predicting dissolved metal concentrations across metropolitan Phoenix using Flame Atomic Absorption Spectroscopy and Gaussian Process regression.**
 
