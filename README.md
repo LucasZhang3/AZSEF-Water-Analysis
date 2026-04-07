@@ -349,6 +349,10 @@ The interactive web application serves as both a research tool and a demonstrati
 - **Additional analytes:** Extending the analysis to include lead, arsenic, copper, and zinc would provide a more comprehensive water quality assessment.
 - **ICP-MS validation:** Cross-validating FAAS measurements against inductively coupled plasma mass spectrometry would provide independent confirmation and lower detection limits.
 
+## Source Code Availability
+
+The source code for the Gaussian Process regression models and web application backend will **not** be publicly released at this time. This decision is to protect proprietary implementations, maintain data integrity, and comply with Arizona Science and Engineering Fair guidelines. Only compiled applications, documentation, and demonstration materials are provided.
+
 ---
 
 ## References
